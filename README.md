@@ -57,7 +57,7 @@ ____________
 <h2 id="setup">Setup</h2>  
 
 <p>
-  Para participar en este taller necesitas acceso al siguiente software. Además necesitarás acceso a un navegador como chrome o firefox.   
+  Para participar en este taller necesitas una computadora con linux instalado, ubuntu se recomienda para nuevos usuarios, además necesitarás acceso a un navegador como chrome o firefox. Si sueles trabajar en windows, te recomendamos git-bash, una terminal que puede servirte para manejar archivos y utilizar bash y git dentro de windows (lección 1). Sin embargo gitbash no es suficiente para la lección de EvoMining y CORASON, para estos softwares necesitas o bien una computadora con linux o bien una instalación de docker funcional en Windows.  
   </p>
 <p>
   Aqui hay una referencia de posibles problemas durante la instalación.  
