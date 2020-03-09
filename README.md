@@ -23,7 +23,7 @@ __B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [An
  Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro taller.   
 
 ## Temario detallado  
-<table> <tr><td> <b> Tema 1 Linux bash </b> <br>
+<table> <tr><td> <b> B3 Linux bash </b> <br>
 1.1 Linux/Unix, Principios básicos del Shell  <br>
 1.2 Comandos para el manejo de archivos y directorios   <br>
 1.3 Loops   <br> 
@@ -32,7 +32,11 @@ __B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [An
 2.2 Git Guardar los scripts en internet <br>
 2.3 MD Crear documentación organizada <br>
 2.4 Docker y la repetibilidad de resultados en maquinas <br> </td>
-    <td> . <br></td></tr>
+    <td> <b> B7  </b>  <br></td>
+    <td> <b> B10 </b> <br>
+    <td> <b> B14 </b> <br>
+    </tr>
+    
     <tr><td> <b> </td>
       <td>    </td> </tr> </table>    
        
