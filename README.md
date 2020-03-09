@@ -48,7 +48,7 @@ __B18__  [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [AntiSMA
       <a href="paginas/genomica.md"> Metadatos </a><br>
     </td>
     <td> <b>B26 </b> <br>
-      <a href="https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp" GNPS </a> <br></td>
+      <a href="https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp"> GNPS </a> <br></td>
     <td> <b> </b> </td>
     </tr> </table>    
        
