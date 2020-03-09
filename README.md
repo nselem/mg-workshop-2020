@@ -42,9 +42,12 @@ __B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [An
       [AntiSMASH](https://antismash.secondarymetabolites.org/#!/start) <br>
       [antiSMASHdb](https://antismash-db.secondarymetabolites.org/#!/start) <br>   </td>
     <td> <b>B22  </b><br>
-    [CORASON](https://bigscape-corason.secondarymetabolites.org/) + [EvoMining](https://github.com/nselem/evomining) [Metadatos y visualización](paginas/genomica/genomica.md)<br> </td>
+      <a href="https://bigscape-corason.secondarymetabolites.org/"> CORASON </a><br>
+      <a href="https://github.com/nselem/evomining"> EvoMining </a> <br>
+      <a href="paginas/genomica.md"> Metadatos </a><br>
+    </td>
     <td> <b>B26 </b> <br>
-    [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp) and MS tools <br></td>
+      <a href="https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp" GNPS </a> <br></td>
     <td> <b> </b> </td>
     </tr> </table>    
        
