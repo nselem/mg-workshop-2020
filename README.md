@@ -13,7 +13,7 @@ En este curso aprenderás un poco de las herramientas linux, git, Google docs y 
 --------------------------------|-----------------------------|-----------------------------|-----------------------------|
 __B1__	PAH/LF	Introduction to secondary metabolism | __B5__	PS/LF	Gene regulation: concepts | __B9__	MGC/FBG	Tinny Earth Project initiative     | __B12__	PS/LF	Gene regulation|   
 __B2__	FBG	Introduction to Genome Mining  |    __B6__	FBG/PS	Natural Products Biosynthesis     |    | __B13__	PS/LF	Genetic tools|  
-__B3__ MGC/NSM [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |__B7__	MGC/NSM	GM-WS. Biosynthetic logics 1|__B10__	MGC/NSM GM-WS AutoMLST + ¿?|__B14__		GM-WS. Biosynthetic Logics 2|   
+__B3__ MGC/NSM [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |__B7__	MGC/NSM	GM-WS. Biosynthetic logics 1|__B10__	MGC/NSM GM-WS [AutoMLST](https://automlst.ziemertlab.com/) |__B14__		GM-WS. Biosynthetic Logics 2|   
 __Jueves 14__      | __Viernes 15__| __Sábado 16__       | 
 __B16__	PAH	Physiology     |__B20__ B20	FBG, NSM, MGC + Maths	Future of Genome Mining| __B24__ FBG/PS	Metabolomics|  
 __B17__  	FBG	Evolution     | __B21__	MGC/PS	Ecology + Interactions 1| __B25__ 	MGC/PS	Ecology + Interactions 2 |  
