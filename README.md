@@ -11,13 +11,13 @@ En este curso aprenderás un poco de las herramientas linux, git, Google docs y 
 
 |       Domingo 10                 |            Lunes 11                  |      martes 12                                 |      Miércoles 13                                   |
 ----------------------------------|--------------------------------------|-------------------------------------------------|-------------------------------------------------|
-B1	PAH/LF	Introduction to secondary metabolism | B5	PS/LF	Gene regulation: concepts | 3       | 4|   
-B2	FBG	Introduction to Genome Mining  |    B6	FBG/PS	Natural Products Biosynthesis     |   3 | 4|  
-Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  | 2|3| Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|   
+B1	PAH/LF	Introduction to secondary metabolism | B5	PS/LF	Gene regulation: concepts | B9	MGC/FBG	Tinny Earth Project initiative     | 4|   
+B2	FBG	Introduction to Genome Mining  |    B6	FBG/PS	Natural Products Biosynthesis     |    | 4|  
+Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |B7	MGC/NSM	GM-WS. Biosynthetic logics 1|B10	MGC/NSM GM-WS AutoMLST + ¿?||   
 __Jueves 14__      | __Viernes 15__| __Sábado 16__       | 
 NSM      | NSM| NSM |  
 1        | 2| 3     |  
-1        | 2| 3     | 
+1        |  Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)| 3     | 
   
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinformatica  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
