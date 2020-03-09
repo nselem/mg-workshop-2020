@@ -15,9 +15,9 @@ __B1__	PAH/LF	Introduction to secondary metabolism | __B5__	PS/LF	Gene regulatio
 __B2__	FBG	Introduction to Genome Mining  |    __B6__	FBG/PS	Natural Products Biosynthesis     |    | __B13__	PS/LF	Genetic tools|  
 __B3__ MGC/NSM [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |__B7__	MGC/NSM	GM-WS. Biosynthetic logics 1|__B10__	MGC/NSM GM-WS AutoMLST + ¿?|__B14__		GM-WS. Biosynthetic Logics 2|   
 __Jueves 14__      | __Viernes 15__| __Sábado 16__       | 
-NSM      | NSM| NSM |  
-1        | 2| 3     |  
-1        |  Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)| 3     | 
+__B16__	PAH	Physiology     |__B20__ B20	FBG, NSM, MGC + Maths	Future of Genome Mining| __B22__ |  
+__B17__  	FBG	Evolution     | __B21__	MGC/PS	Ecology + Interactions 1| __B23__  |  
+__B18__ GM-WS BigSCAPE AntiSMASH  |  __B22__ B22	NS GM-WS CORASON + EvoMining [Metadatos y visualización](paginas/genomica/genomica.md)| __B23__     | 
   
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinformatica  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
