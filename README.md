@@ -27,14 +27,14 @@ __B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [An
 1.1 Linux/Unix, Principios básicos del Shell  <br>
 1.2 Comandos para el manejo de archivos y directorios   <br>
 1.3 Loops   <br> 
-2 El respaldo y documentación de scripts </b> <br>
+<b> 2 Git respaldo y documentación de scripts </b> <br>
 2.1 La importancia de documentar y respaldar el trabajo informático <br>
 2.2 Git Guardar los scripts en internet <br>
 2.3 MD Crear documentación organizada <br>
 2.4 Docker y la repetibilidad de resultados en maquinas <br> </td>
     <td> <b> B7  </b>  <br></td>
-    <td> <b> B10 </b> <br>
-    <td> <b> B14 </b> <br>
+    <td> <b> B10 </b> <br></td>
+    <td> <b> B14 </b> <br></td>
     </tr>
     
     <tr><td> <b> </td>
