@@ -17,7 +17,7 @@ __B3__ MGC/NSM [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git
 __Jueves 14__      | __Viernes 15__| __Sábado 16__       | 
 __B16__	PAH	Physiology     |__B20__ B20	FBG, NSM, MGC + Maths	Future of Genome Mining| __B24__ FBG/PS	Metabolomics|  
 __B17__  	FBG	Evolution     | __B21__	MGC/PS	Ecology + Interactions 1| __B25__ 	MGC/PS	Ecology + Interactions 2 |  
-__B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [AntiSMASH](https://antismash.secondarymetabolites.org/#!/start) [antiSMASHdb](https://antismash-db.secondarymetabolites.org/#!/start) |  __B22__ B22	NS GM-WS [CORASON](https://bigscape-corason.secondarymetabolites.org/) + [EvoMining](https://github.com/nselem/evomining) [Metadatos y visualización](paginas/genomica/genomica.md)| __B26__ PS/FBG GM-WS [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp) and MS tools   | 
+__B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [AntiSMASH](https://antismash.secondarymetabolites.org/#!/start) [antiSMASHdb](https://antismash-db.secondarymetabolites.org/#!/start) |  __B22__ NS GM-WS [CORASON](https://bigscape-corason.secondarymetabolites.org/) + [EvoMining](https://github.com/nselem/evomining) [Metadatos y visualización](paginas/genomica/genomica.md)| __B26__ PS/FBG GM-WS [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp) and MS tools   | 
   
 ## Informacion General  
  Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro taller.   
@@ -37,9 +37,14 @@ __B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [An
     <td> <b> B14 </b> <br></td>
     </tr>    
   <tr>
-    <td> <b>B18</b> </td>
-    <td> <b>B22 </b> </td>
-    <td> <b>B26 </b> </td>
+    <td> <b>B18</b><br>
+    GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/)<br>
+      [AntiSMASH](https://antismash.secondarymetabolites.org/#!/start) <br>
+      [antiSMASHdb](https://antismash-db.secondarymetabolites.org/#!/start) <br>   </td>
+    <td> <b>B22  </b><br>
+    [CORASON](https://bigscape-corason.secondarymetabolites.org/) + [EvoMining](https://github.com/nselem/evomining) [Metadatos y visualización](paginas/genomica/genomica.md)<br> </td>
+    <td> <b>B26 </b> <br>
+    [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp) and MS tools <br></td>
     <td> <b> </b> </td>
     </tr> </table>    
        
