@@ -11,9 +11,9 @@ En este curso aprenderás un poco de las herramientas linux, git, Google docs y 
 
 |       Domingo 10                 |            Lunes 11                  |      martes 12                                 |      Miércoles 13                                   |
 ----------------------------------|--------------------------------------|-------------------------------------------------|-------------------------------------------------|
-B1	PAH/LF	Introduction to secondary metabolism | B5	PS/LF	Gene regulation: concepts | B9	MGC/FBG	Tinny Earth Project initiative     | 4|   
-B2	FBG	Introduction to Genome Mining  |    B6	FBG/PS	Natural Products Biosynthesis     |    | 4|  
-Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |B7	MGC/NSM	GM-WS. Biosynthetic logics 1|B10	MGC/NSM GM-WS AutoMLST + ¿?||   
+__B1__	PAH/LF	Introduction to secondary metabolism | __B5__	PS/LF	Gene regulation: concepts | __B9__	MGC/FBG	Tinny Earth Project initiative     | __B12__	PS/LF	Gene regulation|   
+__B2__	FBG	Introduction to Genome Mining  |    __B6__	FBG/PS	Natural Products Biosynthesis     |    | __B13__	PS/LF	Genetic tools|  
+Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |__B7__	MGC/NSM	GM-WS. Biosynthetic logics 1|B10	MGC/NSM GM-WS AutoMLST + ¿?|__B14__		GM-WS. Biosynthetic Logics 2|   
 __Jueves 14__      | __Viernes 15__| __Sábado 16__       | 
 NSM      | NSM| NSM |  
 1        | 2| 3     |  
