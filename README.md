@@ -35,10 +35,13 @@ __B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [An
     <td> <b> B7  </b>  <br></td>
     <td> <b> B10 </b> <br></td>
     <td> <b> B14 </b> <br></td>
-    </tr>
-    
-    <tr><td> <b> </td>
-      <td>    </td> </tr> </table>    
+    </tr>    
+  <tr>
+    <td> <b>B18</b> </td>
+    <td> <b>B22 </b> </td>
+    <td> <b>B26 </b> </td>
+    <td> <b> </b> </td>
+    </tr> </table>    
        
 ____________
 ## Instalaciones y requerimientos previos  
