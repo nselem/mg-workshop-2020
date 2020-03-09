@@ -38,9 +38,9 @@ __B18__ GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/) [An
     </tr>    
   <tr>
     <td> <b>B18</b><br>
-    GM-WS [BigSCAPE](https://bigscape-corason.secondarymetabolites.org/)<br>
-      [AntiSMASH](https://antismash.secondarymetabolites.org/#!/start) <br>
-      [antiSMASHdb](https://antismash-db.secondarymetabolites.org/#!/start) <br>   </td>
+      <a href="https://bigscape-corason.secondarymetabolites.org/></a><br>
+      <a href="https://antismash.secondarymetabolites.org/#!/start></a> <br>
+   <a href="(https://antismash-db.secondarymetabolites.org/#!/start></a> <br>   </td>
     <td> <b>B22  </b><br>
       <a href="https://bigscape-corason.secondarymetabolites.org/"> CORASON </a><br>
       <a href="https://github.com/nselem/evomining"> EvoMining </a> <br>
