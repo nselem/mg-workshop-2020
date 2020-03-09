@@ -11,10 +11,10 @@ En este curso aprenderás un poco de las herramientas linux, git, Google docs y 
 
 |       Domingo 10                 |            Lunes 11                  |      martes 12                                 |      Miércoles 13                                   |
 ----------------------------------|--------------------------------------|-------------------------------------------------|-------------------------------------------------|
-Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Septiembre 27 [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |    Octubre 4  Proyectos y/o temas específicos.  |
-Septiembre 21 [Google drive](paginas/drive/sitios.md)        |  Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|    Octubre 5  Presentación de proyecto.         | 
-1| 2| 3       | 4|  
- __Jueves 14       | Viernes 15| Sábado 16__       | 
+B1	PAH/LF	Introduction to secondary metabolism | 2| 3       | 4|   
+B2	FBG	Introduction to Genome Mining  |   Septiembre 27 [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |   3 | 4|  
+Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)  | 2|3| Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|   
+__Jueves 14__      | __Viernes 15__| __Sábado 16__       | 
 NSM      | NSM| NSM |  
 1        | 2| 3     |  
 1        | 2| 3     | 
