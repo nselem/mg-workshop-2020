@@ -11,9 +11,9 @@ En este curso aprenderás un poco de las herramientas linux, git, Google docs y 
 
 |       Domingo 10                 |            Lunes 11                  |      martes 12                                 |      Miércoles 13                                   |
 ----------------------------------|--------------------------------------|-------------------------------------------------|-------------------------------------------------|
-B1	PAH/LF	Introduction to secondary metabolism | 2| 3       | 4|   
-B2	FBG	Introduction to Genome Mining  |   Septiembre 27 [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |   3 | 4|  
-Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)  | 2|3| Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|   
+B1	PAH/LF	Introduction to secondary metabolism | B5	PS/LF	Gene regulation: concepts | 3       | 4|   
+B2	FBG	Introduction to Genome Mining  |    B6	FBG/PS	Natural Products Biosynthesis     |   3 | 4|  
+Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/),[Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  | 2|3| Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|   
 __Jueves 14__      | __Viernes 15__| __Sábado 16__       | 
 NSM      | NSM| NSM |  
 1        | 2| 3     |  
